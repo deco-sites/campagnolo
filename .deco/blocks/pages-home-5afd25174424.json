@@ -9,8 +9,8 @@
       "__resolveType": "website/sections/Rendering/Lazy.tsx",
       "section": {
         "__resolveType": "site/sections/Banner.tsx",
-        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/campagnolo/018ddacc-1430-4de5-a2a3-d11e4333d7bf/banner-mobile.png",
-        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/campagnolo/142372f3-f360-460f-a76d-ae28a6645917/banner.png",
+        "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/campagnolo/e8212b9d-9282-4ca6-97d6-f72eb4fbb854/banner-mobile.png",
+        "imageMobile": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/campagnolo/2fb06476-c6ec-488e-aed4-d3a4d14c1edc/banner.png",
         "textBanner": "A terapia humanista é um espaço de autoconhecimento e crescimento. Focada na empatia e na escuta ativa, ela valoriza a singularidade de cada pessoa, ajudando a entender emoções e a promover o bem-estar. Com isso, fortalece a autoestima e possibilita uma vida mais plena e autêntica."
       }
     },
