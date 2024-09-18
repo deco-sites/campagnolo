@@ -24,7 +24,7 @@ export default function Banner ({ image, imageMobile, textBanner }: Props) {
                     height={1200}
                 />
                 <img
-                    src="https://deco-sites-assets.s3.sa-east-1.amazonaws.com/campagnolo/2ee90cfa-c11b-45db-ae50-512fad6e7bf5/banner.png"
+                    src={ image }
                     className="w-full h-full max-w-full object-contain"
                 />
             </Picture>
