@@ -1,6 +1,7 @@
 {
   "imports": {
     "$fresh/": "https://deno.land/x/fresh@1.6.8/",
+    "$store/": "./",
     "@cliffy/prompt": "jsr:@cliffy/prompt@^1.0.0-rc.5",
     "@core/asyncutil": "jsr:@core/asyncutil@^1.0.2",
     "@deco/codemod-toolkit": "jsr:@deco/codemod-toolkit@^0.2.1",
@@ -33,6 +34,7 @@
     "std/": "https://deno.land/std@0.190.0/",
     "site/": "./",
     "deco/": "https://cdn.jsdelivr.net/gh/deco-cx/deco@1.98.1/",
+    "deco-sites/std/": "https://denopkg.com/deco-sites/std@1.26.8/",
     "apps/": "https://cdn.jsdelivr.net/gh/deco-cx/apps@0.59.1/",
     "preact/": "https://esm.sh/preact@10.19.6/",
     "@preact/signals": "https://esm.sh/*@preact/signals@1.2.2",
